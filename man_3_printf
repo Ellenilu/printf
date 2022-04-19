@@ -57,3 +57,6 @@ Prints a string converted to rot13
 A '%' is written but no argument is converted. The complete version specification is '%%'
 .SH EXAMPLE
 To print the day of the year, where weekday and month are pointers to strings and day and year are integers:
+
+AUTHORS
+Elleni Berhe, Rahel Gebreyohannes
