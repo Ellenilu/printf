@@ -1,4 +1,6 @@
 .TH man 3 "April 19 2022" "0.10" "_printf man page"
+.SH DATE
+April 19 2022
 .SH NAME
 .B _printf
 - Formatted output conversion.
@@ -58,5 +60,5 @@ A '%' is written but no argument is converted. The complete version specificatio
 .SH EXAMPLE
 To print the day of the year, where weekday and month are pointers to strings and day and year are integers:
 
-AUTHORS
+.SH AUTHORS
 Elleni Berhe, Rahel Gebreyohannes
